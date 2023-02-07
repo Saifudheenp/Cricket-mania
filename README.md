@@ -6,6 +6,10 @@ Beofore you run this program make sure your system installed following softwares
 1. For video player :  sudo apt-get install mplayer
 2. For audio player :  sudo apt-get install mpg123
                        sudo apt-get install sox libsox-fmt-mp3
+                       sudo apt-get install play
+                       sudo apt-get install sox
                        
 Youtube video link :
 https://youtu.be/qYPPYdgnl0s
+https://youtu.be/rOmLHEkDG9o
+
